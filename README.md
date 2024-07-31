@@ -28,7 +28,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Step 1: Creating two Virtual Machine from azure and have on for windows and the other for Linux with the same resource group and vnet. If easier you can use the same username and password for both VMs. Open and run destop remote put the IP Address that azure provided you that would be under "Public IP Address" you want use a different account and put in username and password that you used in azure when creating the windows vm, Now you would be able run the windows vm. 
 - Step 2: When you are in the windows vm open "mirosoft edge" and search wireshark in the window virtual machine.
 - Step 3: When you finish downloading wireshark open and run, filter it for icmp only so you can see the traffic when ping a something on the command line or powershell. You can ping the private IP Address from Linux vm. 
-- Step 4: Now that you pinged the Linux private IP Address you can do a perpetual/non-stop ping while the ping is running you want to go to linux vm's Network security and create a new imbound name it "deny icmp ping from anywhere" set as decline.  Go back to check the non-stop ping now you will notice that it can't ping vm linux because that ibound rule is taking effect 
+- Step 4: Now that you pinged the Linux private IP Address you can do a perpetual/non-stop ping while the ping is running you want to go to linux vm's Network security and create a new imbound name it "deny icmp ping from anywhere" set as decline.  Go back to check the non-stop ping now you will notice that it can't ping vm linux because that imbound rule is taking effect 
 - Step 5:
 
 <h2>Actions and Observations</h2>
