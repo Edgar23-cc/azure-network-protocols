@@ -6,9 +6,7 @@
 In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com/)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -58,6 +56,6 @@ DNS Traffic
 <img src="https://i.imgur.com/F48S2Tf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- ljtgg
+ When you are you using the filter dns you can look up the ip addresse(s) of the site you used in the command system just like how it shows the picture above. Notice that google has more than one IP address and disney has just one IP address.The reason why google has ip addresses is because it has more resources.
 </p>
 <br />
