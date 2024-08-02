@@ -56,6 +56,6 @@ DNS Traffic
 <img src="https://i.imgur.com/F48S2Tf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- When you are you using the filter dns you can look up the ip addresse(s) of the site you used in the command system just like how it shows the picture above. Notice that google has more than one IP address and disney has just one IP address.The reason why google has ip addresses is because it has more resources.
+ When you are you using the filter dns you can look up the ip addresse(s) of the site you used in the command system just like how it shows the picture above. Notice that google has more than one IP address and disney has just one IP address.The reason why google has ip addresses is because it has more resources than disney has.
 </p>
 <br />
