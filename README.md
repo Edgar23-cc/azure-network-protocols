@@ -45,7 +45,7 @@ On the picture that says "Allow Request" was before the imbound rule was created
 <br />
 SSH Traffic
 <p>
-<img src="https://i.imgur.com/qai9SZA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kWPHzX5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 When you connect to linux you will get some traffic just like the picture above, Using commands like zip to zip files or ifconfig to display the Ip address. The more commands you use the more traffic it will show. Notice that the souce and destination change is because you are using the linux and it has it own private ip address.
